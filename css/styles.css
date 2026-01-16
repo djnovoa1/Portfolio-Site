@@ -1359,7 +1359,7 @@ h6, .h6 {
     font-weight    : 600;
     font-size      : var(--text-sm);
     line-height    : var(--vspace-0_75);
-    text-transform : uppercase;
+    /*text-transform : uppercase;*/
     letter-spacing : .2rem;
 }
 
@@ -2686,7 +2686,7 @@ img.u-pull-left {
 }
 
 .text-huge-title {
-    --text-huge : 10.8rem;
+    --text-huge : 8.5rem;
     font-size   : var(--text-huge);
     line-height : 1.0740;
     margin-top  : 0;
